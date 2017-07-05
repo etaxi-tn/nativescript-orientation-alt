@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "nativescript-globalevents": "^1.1.0",
-    "nativescript-dom": "^1.0.0"
+    "nativescript-dom": "^2.0.0"
   },
   "keywords": [
     "NativeScript", "orientation", "landscape", "ios", "android"
